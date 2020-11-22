@@ -15,5 +15,5 @@ familiar with GitHub's PR system, you can read about it [here.] (https://docs.gi
 
 # Special Thanks
 
-The sweet people at [Forest of Illusion] (https://twitter.com/forestillusion) for publishing the game so I could extract it and translate it
+The sweet people at [Forest of Illusion] (https://twitter.com/forestillusion) for publishing the game so I could extract it and translate it <br/>
 The Kuriimu team for making Kuriimu
