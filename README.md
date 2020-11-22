@@ -1,6 +1,19 @@
 # 3dch-eng
 A 3D Translation of the E3 2010 tech demo "3D Challenge" for the Nintendo 3DS.
 
+# How to install this mod
+To make this work you'll need to have:<br/>
+- A 3DS (duh)<br/>
+- Luma CFW (also duh)<br/>
+- Game Patching enabled in your [luma config] (https://github.com/LumaTeam/Luma3DS/wiki/Optional-features)<br/>
+
+To install the mod you'll need to download the [latest zip release] (https://github.com/matthew-5pl/3dch-eng/releases/latest) and unzip it.<br/>
+Plug your 3DS's SD Card or microSD Card into your computer and open its contents.<br/>
+If not present, create a folder named "titles" in your /luma/ folder.<br/>
+Open the titles folder and drag the "0004001000020D00" folder into it.<br/>
+Turn on your 3DS and open 3D Challenge.<br/>
+Profit
+
 # How to submit a translation
 First of all clone this repository to your hard drive. 
 You can do this directly from the GitHub website 
