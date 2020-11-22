@@ -20,7 +20,7 @@ First of all clone this repository to your hard drive.
 You can do this directly from the GitHub website 
 or by using applications such as GitHub Desktop.
 Then you'll need Kuriimu, an open-source translator
-for Nintendo String Files (.msbt). Download it from the project's [GitHub repository](https://github.com/IcySon55/Kuriimu/releases)
+for Nintendo String Files (.msbt). Visit the project's [GitHub repository](https://github.com/IcySon55/Kuriimu/releases)
 and download the latest .rar archive containing the Kuriimu Binaries.
 Now that you have all of the needed files, open Kuriimu and drag the .msbt
 file onto the active folder. Then you can choose a string and make your changes.
