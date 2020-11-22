@@ -11,6 +11,7 @@ To install the mod you'll need to download the [latest zip release](https://gith
 Plug your 3DS's SD Card or microSD Card into your computer and open its contents.<br/>
 If not present, create a folder named "titles" in your /luma/ folder.<br/>
 Open the titles folder and drag the "0004001000020D00" folder into it.<br/>
+Plug your SD Card or microSD Card back into your 3DS.<br/> 
 Turn on your 3DS and open 3D Challenge.<br/>
 Profit
 
